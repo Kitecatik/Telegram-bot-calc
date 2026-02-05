@@ -12,7 +12,7 @@ python3 Main.py
 ```
 # Основные функции бота
 
-![Image](https://github.com/user-attachments/assets/439482e2-9a05-4ca7-85ce-76d2fa159ddb)
+![0205 (1)(1)](https://github.com/user-attachments/assets/ab839aad-1cb2-4fb7-a43d-d3639adc89ea)
 
 # Стек проекта
 
